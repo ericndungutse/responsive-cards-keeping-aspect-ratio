@@ -23,21 +23,6 @@ export default function Products() {
             'c_thumb'
           );
           return (
-            //   <div key={product.id} className='w-fit border rounded-xl overflow-hidden'>
-            //     {/* Image Container */}
-            //     <div className='w-[300px] h-[300px] mb-4'>
-            //       {/* <h1>Hey</h1> */}
-            //       <img src={productThumbnail && productThumbnail} alt='' className='object-cover' />
-            //     </div>
-            //     {/* Content */}
-            //     <div className='flex justify-between items-center p-4'>
-            //       <div>
-            //         <h3 className='text-4xl font-semibold'>{product.name}</h3>
-            //         <p className='text-lg text-gray-500'>{product.price} RWF</p>
-            //       </div>
-            //       <button className='bg-green-800 text-white p-3 inline-block rounded-xl'>Add to cat</button>
-            //     </div>
-            //   </div>
 
             <div className='w-full border rounded-xl overflow-hidden'>
               <div className='w-full h-auto overflow-hidden aspect-square mb-12 border-b'>
